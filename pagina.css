@@ -215,8 +215,16 @@
         margin-left: -26%;
     }
 
+    .album {
+         margin-left: -25%;
+    }
+
+    .foto-album img{
+        width: 100%;
+    }
+
     .foto-album {
         width: 70%;
-        margin-left: -25%;
+       
     }
 }
