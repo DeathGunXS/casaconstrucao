@@ -213,12 +213,13 @@
     .section1 .company-logo img{
         width: 500px;
         height: 300px;
-        margin-left: -80%;
+        margin-left: 0;
         padding: 0;
     }
 
     .album {
          margin-left: 18%;
+        width: 90%;
     }
 
     .foto-album img{
