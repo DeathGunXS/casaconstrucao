@@ -211,9 +211,9 @@
 @media screen and (max-width: 362px) {
 
     .section1 .company-logo img{
-        width: 200px;
+        width: 400px;
         height: 400px;
-        margin-left: -10%;
+        margin-left: -20%;
         padding: 0;
     }
 
@@ -226,7 +226,7 @@
     }
 
     .foto-album {
-        width: 100px;
+        width: 75px;
        
     }
 }
