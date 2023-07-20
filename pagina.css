@@ -217,7 +217,7 @@
     }
 
     .album {
-         margin-left: 50%;
+         margin-left: 40%;
     }
 
     .foto-album img{
@@ -225,7 +225,7 @@
     }
 
     .foto-album {
-        width: 175px;
+        width: 150px;
        
     }
 }
