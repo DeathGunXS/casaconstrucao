@@ -212,10 +212,9 @@
 
     .section1 .company-logo img{
         position: relative;
-        left: 2%;
+        left: -10%;
         width: 500px;
         height: 300px;
-        margin-left: 1%;
         padding: 0;
     }
 
