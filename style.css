@@ -580,8 +580,8 @@ main {
     .anuncie {
         position: relative;
         width: 300px;
-        left: 2%;
-        top: 10%;
+        left: 6%;
+        top: -10%;
     }
 
     .container1 {
