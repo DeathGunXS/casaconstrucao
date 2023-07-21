@@ -578,7 +578,7 @@ main {
     }
 
     .anuncie {
-        bottom: 50%;
+        bottom: 0;
         left: 1%;
         width: 95%;
     }
