@@ -580,7 +580,7 @@ main {
     .anuncie {
         position: relative;
         width: 300px;
-        left: 5%;
+        left: 0;
         top: 20%;
     }
 
