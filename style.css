@@ -577,11 +577,13 @@ main {
         margin-bottom: 60%;
     }
 
-    /*.anuncie {
-        margin-top: 50%;
-        left: 1%;
+    .anuncie {
+        position: relative;
+        width: 90%;
+        left: 5%;
+        top: 40%;
         width: 95%;
-    }*/
+    }
 
     .container1 {
         width: 90%;
