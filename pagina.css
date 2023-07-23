@@ -73,9 +73,9 @@
 }
 
 @media screen and (max-width: 1366px) {
- .section1 .datas{
-    position: relative;
-    top: 20%;
+.section1 .datas {
+     position: relative;
+     top: 20%;
  }
 }
 
