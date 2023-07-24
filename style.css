@@ -324,7 +324,7 @@ main {
 @media screen and (max-width: 1366px) {
     
     .anuncie {
-        position: relative;
+        position: absolute;
         top: 80%;
         right: 5%;
     }
